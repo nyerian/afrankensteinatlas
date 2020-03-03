@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>A Frankenstein Atlas Home</title>
+<title>My First Essay</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -10,7 +10,8 @@
 <!-- Header Section -->
 <?php include("header.php"); 
 ?>
-
+  <h1></h1>
+  <p></p>
 
 <!-- Footer Section -->
 <?php include("footer.php"); 
